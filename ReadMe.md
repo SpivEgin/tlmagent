@@ -1,0 +1,1 @@
+docker run -it  --privileged=true -v /var/run/docker.sock:/var/run/docker.sock tlmagent bash
